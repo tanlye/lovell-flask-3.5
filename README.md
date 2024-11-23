@@ -15,8 +15,8 @@
     docker run -dp 8080:8080 <my-node-app>
     docker ps
     curl localhost:8080
-   This will create the docker image.
 ```
+   This will create the docker image.
 
 3. To dockerfile into AWS ECR, go into the private repo in AWS. Follow the instructions stated in 'View push commands':
 ```
